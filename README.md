@@ -1,9 +1,10 @@
 # Notes
 
 This is an attempt to use a git repository for my notes.
-They will mostly be markdown and text files.
+They will mostly be markdown and text files, possibly images
+for things that mermaid diagrams cannot render.
 
-## Topics
+## Topics (eventually)
 
 - Cloud
   - Amazon Web Services (AWS)
@@ -17,6 +18,8 @@ They will mostly be markdown and text files.
   - Go
 - Linux
   - SysAdmin
+  - Configurations
+  - Command Line Tools
 - LLMs
-  - configurations
+  - Configurations
   - developer workflows
