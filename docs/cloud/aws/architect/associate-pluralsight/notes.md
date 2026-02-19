@@ -6,7 +6,8 @@ re { color: crimson; font-weight: bold }
 or { color: darkorange; font-weight: bold }
 gr { color: seagreen; font-weight: bold }
 ye { color: gold; font-weight: bold }
-pi { color: orchid; font-weight: bold }
+pi { color: hotpink; font-weight: bold }
+pu { color: orchid; font-weight: bold }
 </style>
 
 ## The AWS Global Footprint
